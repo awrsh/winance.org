@@ -1,0 +1,48 @@
+@import url('themify-icons.css');
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 700;
+    src: url(eot/irsans-b.eot);
+    src: url(eot/irsans-bd41d.eot?#iefix) format("embedded-opentype"), url(woff/irsans-b.woff) format("woff"), url(ttf/irsans-b.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 500;
+    src: url(eot/irsans-m.eot);
+    src: url(eot/irsans-md41d.eot?#iefix) format("embedded-opentype"), url(woff/irsans-m.woff) format("woff"), url(ttf/irsans-m.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 400;
+    src: url(eot/irsans-m.eot);
+    src: url(eot/irsans-md41d.eot?#iefix) format("embedded-opentype"), url(woff/irsans-m.woff) format("woff"), url(ttf/irsans-m.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 300;
+    src: url(irsans-l.html);
+    src: url(eot/irsans-ld41d.eot?#iefix) format("embedded-opentype"), url(woff/irsans-l.woff) format("woff"), url(ttf/irsans-l.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 200;
+    src: url(eot/irsans-u.eot);
+    src: url(eot/irsans-ud41d.eot?#iefix) format("embedded-opentype"), url(woff/irsans-u.woff) format("woff"), url(ttf/irsans-u.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: 400;
+    src: url(eot/irsans.eot);
+    src: url(eot/irsansd41d.eot?#iefix) format("embedded-opentype"), url(ttf/irsans.ttf) format("truetype");
+}

@@ -1,0 +1,100 @@
+.content, body {
+    background: #273640 !important;
+    color: #d1dff5
+}
+
+.breadcrumb li.active, .card h2.box-title, .cb__currency, .cb__switch, .cb__value, .form-control, .former input[type=text], .former textarea, .jQCZaw, .messager, .namer, .navbar-toggler.d-lg-none, .selectric .label, .selectric-items li, .swal-text, .table-stats table td, a, input, input:active .card h2.box-title, input:focus, p, span, strong, textarea, textarea:focus {
+    color: #d1dff5
+}
+
+.form-control-label {
+    color: #a6a7a9 !important
+}
+
+.card, .card h2.box-title, .card-header, .header-left .dropdown .dropdown-menu, .navbar .navbar-nav, .navbar .navbar-nav li.menu-item-has-children .sub-menu i, .navbar .navbar-nav li.menu-item-has-children.show .sub-menu, .order-table tr th, .resblock, .swal-icon--success:after, .swal-icon--success:before, .swal-icon--success__hide-corners, .swal-modal, body .breadcrumbs .breadcrumbs-inner, body .page-header, body header.header {
+    background: #1b262d !important
+}
+
+.navbar .navbar-nav li.menu-item-has-children .sub-menu::before {
+    border-color: #1b262d !important
+}
+
+.box-title span {
+    background: #273842 !important
+}
+
+.dashes {
+    background: #1b272d;
+    opacity: 1 !important
+}
+
+.box-title, .card .card-body.py-5.mb-3, .card-header, .currencylist, .form-control, .former input[type=text], .former textarea, .navbar .navbar-nav li.menu-item-has-children .sub-menu li, .navbar .navbar-nav li.menu-item-has-children.show .sub-menu, .navbar .navbar-nav li:last-child, .resblock, .section-title, .selectric-items, .table td, .table th, .table-stats table td, .table-stats table th, header.header, li.search input[type=text] {
+    border-color: #273842 !important
+}
+
+.mw-100.mb-0.mb-lg-auto.mt-4 {
+    background: #273842 !important
+}
+
+.switch-field label {
+    background: linear-gradient(to right, #27404c, #27404c 80%, #27404c);
+    color: lightgrey
+}
+
+.navbar .navbar-nav li.menu-item-has-children a:hover:before {
+    border-color: #273842 #273842 transparent transparent
+}
+
+.navbar .navbar-nav li.menu-item-has-children.show a:hover:before {
+    border-color: transparent #273842 #273842 transparent
+}
+
+.cb {
+    border-radius: 0 !important;
+    border-bottom: 1px solid #273740 !important;
+    background: 0 0
+}
+
+.cb__value {
+    background: 0 0 !important
+}
+
+.custom-control-label, .fee-bg, .text-muted {
+    color: #b0b9c1 !important
+}
+
+.currencylist, hr {
+    background: rgb(27 39 45)
+}
+
+.navbar .navbar-nav li > a {
+    color: #fff
+}
+
+.navbar .navbar-nav li .toggle_nav_button.nav-open:before, .navbar .navbar-nav li.active .menu-icon, .navbar .navbar-nav li:hover .toggle_nav_button:before, .navbar .navbar-nav li > a:hover, .navbar .navbar-nav li > a:hover .menu-icon, .navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:focus, .navbar .navbar-nav > .active > a:hover, .navbar .navbar-nav > .show > a, .navbar .navbar-nav > .show > i, .swal-title {
+    color: #2cc379
+}
+
+.cb .currencylist li .coin-icon, .cb:focus, .descbb, .form-control, .former input[type=text], .former textarea, .load-more, .selectric, .selectric .button, .selectric-items li, .steps-header .steps .step:before, .user-area .user-menu, .walleter input, input, input:focus, textarea, textarea:focus {
+    background: #273740 !important
+}
+
+.orange .stat-heading, .orange .stat-text, .orange .stat-text .count {
+    color: #f7ae97 !important
+}
+
+.purpule .stat-heading, .purpule .stat-text, .purpule .stat-text .count {
+    color: #ab8ce4 !important
+}
+
+.grn .stat-heading, .grn .stat-text, .grn .stat-text .count {
+    color: #00c292 !important
+}
+
+.box-title span, .cb__switch, .content, .form-control-label, .jbZJFm:hover, .tooltip-inner, tbody tr:hover {
+    background: #212f38 !important
+}
+.disabled{
+    pointer-events:none;
+    opacity:0.4;
+}
