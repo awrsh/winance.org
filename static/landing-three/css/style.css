@@ -2144,6 +2144,7 @@ ul.social-links li a {
     font-weight: normal;
     margin-bottom: 35px;
     font-family: iranyekan;
+    font-style: italic;
 }
 
 /**----- RESPONSIVE SLIDER -----**/
@@ -2833,6 +2834,8 @@ footer p {
 footer h2 {
     color: #fff;
     font-size: 24px;
+    font-family: 'iranyekan';
+    font-weight: 500;
 }
 
 footer h2::after {
